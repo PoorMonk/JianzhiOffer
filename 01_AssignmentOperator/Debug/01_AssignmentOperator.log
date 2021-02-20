@@ -1,1 +1,7 @@
-﻿  01_AssignmentOperator.vcxproj -> D:\C++\C++Console\GitJZOffer\JianzhiOffer\Debug\01_AssignmentOperator.exe
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  01_AssignmentOperator.cpp
+d:\c++\c++console\gitjzoffer\jianzhioffer\01_assignmentoperator\01_assignmentoperator.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\c++\c++console\gitjzoffer\jianzhioffer\01_assignmentoperator\01_assignmentoperator.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  01_AssignmentOperator.vcxproj -> D:\C++\C++Console\GitJZOffer\JianzhiOffer\Debug\01_AssignmentOperator.exe
